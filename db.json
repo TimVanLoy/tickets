@@ -1,11 +1,11 @@
 {
     "tickets": [
         {
-            "firstName": "John",
+            "firstName": "Jahn",
             "lastName": "Doe",
-            "e_mail": "johndoe@example.com",
+            "e_mail": "jahndoe@example.com",
             "phone": "123-456-7890",
-            "eventDate": date.today().isoformat(),  # Use today's date
+            "eventDate": "2024-09-25",
             "preference": "middle"
         },
         {
@@ -13,7 +13,7 @@
             "lastName": "Smith",
             "e_mail": "janesmith@example.com",
             "phone": "987-654-3210",
-            "eventDate": date.today().isoformat(),  # Use today's date
+            "eventDate": "2024-09-25",
             "preference": "front"
         },
         {
@@ -21,7 +21,7 @@
             "lastName": "Brown",
             "e_mail": "alicebrown@example.com",
             "phone": "555-123-4567",
-            "eventDate": date.today().isoformat(),  # Use today's date
+            "eventDate": "2024-09-25",
             "preference": "back"
         }
     ]
