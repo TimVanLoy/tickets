@@ -1,25 +1,28 @@
 {
     "tickets": [
         {
+            "ticketId": 1,
             "firstName": "Jahn",
             "lastName": "Doe",
-            "e_mail": "jahndoe@example.com",
+            "e_mail": "jahn.doe@example.com",
             "phone": "123-456-7890",
             "eventDate": "2024-09-25",
             "preference": "middle"
         },
         {
+            "ticketId": 2,
             "firstName": "Jane",
             "lastName": "Smith",
-            "e_mail": "janesmith@example.com",
+            "e_mail": "jane.smith@example.com",
             "phone": "987-654-3210",
             "eventDate": "2024-09-25",
             "preference": "front"
         },
         {
+            "ticketId": 3,
             "firstName": "Alice",
             "lastName": "Brown",
-            "e_mail": "alicebrown@example.com",
+            "e_mail": "alice.brown@example.com",
             "phone": "555-123-4567",
             "eventDate": "2024-09-25",
             "preference": "back"
